@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hugoas232
+- 👀 I'm 17, still in high school, and I'm interested in pursuing a future in computer science.
+- 🌱 I'm currently learning computer science through many different applications, such as edx and PLTW.
+- 💞️ I'm looking for any opportunities to make connections, collaborate on different projects, etc.
+- 📫 You can reach out to me through my email DarkRaise232@gmail.com, or less formally through my instagram, @hugoas233.
