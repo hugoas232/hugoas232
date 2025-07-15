@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hugoas232
-- 👀 I'm 17, still in high school, and I'm interested in pursuing a future in computer science.
-- 🌱 I'm currently learning computer science through many different applications, such as edx and PLTW.
-- 💞️ I'm looking for any opportunities to make connections, collaborate on different projects, etc.
-- 📫 You can reach out to me through my email DarkRaise232@gmail.com, or less formally through my instagram, @hugoas233.
+- 👋 Hi, I’m @hugoas232, I'm interested in Software Development, Cybersecurity, and Game Development.
+- 👀 I'm 18, and pursuing a Computer Science Degree at The University of Texas at Austin.
+- 🌱 I'm currently learning computer science through many different applications, such as edx and college classes.
+- 💞️ I'm looking for any opportunities to make connections, collaborate on different projects, expand my CS knowledge etc.
+- 📫 You can reach out to me through my email DarkRaise232@gmail.com or, less formally, through my instagram @hugoas233.
